@@ -18,6 +18,10 @@ n!=5
 1
 68
 'digite el numero del 1 al 5 teniendo en cuenta que 5 es para salir'
+5
+1
+1
+n
 7
 0
 1
@@ -74,6 +78,10 @@ area
 3
 n=3
 13
+4
+1
+29
+'dime 8 numero y te los sumo'
 6
 1
 3
